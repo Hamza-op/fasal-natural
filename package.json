@@ -1,0 +1,21 @@
+{
+  "name": "fasal-natural",
+  "version": "1.0.0",
+  "description": "Fasal Natural — Authentic Multani Sohan Halwa, Pure Desi Ghee & Panjeeri Storefront with WhatsApp Checkout",
+  "main": "store/index.html",
+  "scripts": {
+    "start": "npx serve store",
+    "serve": "npx serve store"
+  },
+  "keywords": [
+    "ecommerce",
+    "storefront",
+    "whatsapp-checkout",
+    "multan",
+    "sohan-halwa",
+    "desi-ghee",
+    "pakistan"
+  ],
+  "author": "Hamza",
+  "license": "MIT"
+}

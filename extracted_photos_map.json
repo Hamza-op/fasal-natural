@@ -1,0 +1,172 @@
+[
+  {
+    "product_id": "simple-sohan-halwa",
+    "title_en": "Simple Sohan Halwa",
+    "title_ur": "سادہ سوہن حلوہ",
+    "images": [
+      {
+        "filename": "simple_sohan_halwa_main.webp",
+        "localPath": "extracted_photos/simple_sohan_halwa_main.webp",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/simplesohanhalwa.webp?v=1772665145",
+        "sizeBytes": 62973
+      },
+      {
+        "filename": "simple_sohan_halwa_box.jpg",
+        "localPath": "extracted_photos/simple_sohan_halwa_box.jpg",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/69.jpg?v=1772665145",
+        "sizeBytes": 306804
+      },
+      {
+        "filename": "simple_sohan_halwa_detail.jpg",
+        "localPath": "extracted_photos/simple_sohan_halwa_detail.jpg",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/68.jpg?v=1772665145",
+        "sizeBytes": 293245
+      }
+    ]
+  },
+  {
+    "product_id": "badami-sohan-halwa",
+    "title_en": "Badami Sohan Halwa",
+    "title_ur": "بادامی سوہن حلوہ",
+    "images": [
+      {
+        "filename": "badami_sohan_halwa_main.webp",
+        "localPath": "extracted_photos/badami_sohan_halwa_main.webp",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/1721441339-badam_20pak.webp?v=1771648555",
+        "sizeBytes": 81008
+      },
+      {
+        "filename": "badami_sohan_halwa_box.jpg",
+        "localPath": "extracted_photos/badami_sohan_halwa_box.jpg",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/67.jpg?v=1772665145",
+        "sizeBytes": 184470
+      }
+    ]
+  },
+  {
+    "product_id": "akhroti-sohan-halwa",
+    "title_en": "Akhroti Sohan Halwa",
+    "title_ur": "اخروٹی سوہن حلوہ",
+    "images": [
+      {
+        "filename": "akhroti_sohan_halwa_main.webp",
+        "localPath": "extracted_photos/akhroti_sohan_halwa_main.webp",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/1721441254-Akhroti20Halwa.webp?v=1734076412",
+        "sizeBytes": 59635
+      },
+      {
+        "filename": "akhroti_sohan_halwa_box.jpg",
+        "localPath": "extracted_photos/akhroti_sohan_halwa_box.jpg",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/57.jpg?v=1772660177",
+        "sizeBytes": 233451
+      }
+    ]
+  },
+  {
+    "product_id": "double-akhroti-sohan-halwa",
+    "title_en": "Double Akhroti Sohan Halwa",
+    "title_ur": "ڈبل اخروٹی سوہن حلوہ",
+    "images": [
+      {
+        "filename": "double_akhroti_main.jpg",
+        "localPath": "extracted_photos/double_akhroti_main.jpg",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Product_1.jpg?v=1771597389",
+        "sizeBytes": 171548
+      },
+      {
+        "filename": "double_akhroti_detail.jpg",
+        "localPath": "extracted_photos/double_akhroti_detail.jpg",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Product_2.jpg?v=1771597389",
+        "sizeBytes": 119731
+      }
+    ]
+  },
+  {
+    "product_id": "mix-dry-fruit-sohan-halwa",
+    "title_en": "Mix Dry Fruit Sohan Halwa",
+    "title_ur": "مکس ڈرائی فروٹ سوہن حلوہ",
+    "images": [
+      {
+        "filename": "mix_dry_fruit_main.jpg",
+        "localPath": "extracted_photos/mix_dry_fruit_main.jpg",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/DSC03010_1.jpg?v=1749643282",
+        "sizeBytes": 184645
+      },
+      {
+        "filename": "mix_dry_fruit_box.jpg",
+        "localPath": "extracted_photos/mix_dry_fruit_box.jpg",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/60.jpg?v=1772661053",
+        "sizeBytes": 253895
+      },
+      {
+        "filename": "mix_dry_fruit_combo.png",
+        "localPath": "extracted_photos/mix_dry_fruit_combo.png",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/4_in_1.png?v=1772661053",
+        "sizeBytes": 391514
+      }
+    ]
+  },
+  {
+    "product_id": "pista-sohan-halwa",
+    "title_en": "Pista Sohan Halwa",
+    "title_ur": "پستہ سوہن حلوہ",
+    "images": [
+      {
+        "filename": "pista_sohan_halwa_main.webp",
+        "localPath": "extracted_photos/pista_sohan_halwa_main.webp",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/pistahalwa.webp?v=1772672833",
+        "sizeBytes": 49923
+      },
+      {
+        "filename": "pista_sohan_halwa_box.jpg",
+        "localPath": "extracted_photos/pista_sohan_halwa_box.jpg",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/74.jpg?v=1772672833",
+        "sizeBytes": 207213
+      },
+      {
+        "filename": "pista_sohan_halwa_pack.png",
+        "localPath": "extracted_photos/pista_sohan_halwa_pack.png",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Pista_Halwa_2.png?v=1772672833",
+        "sizeBytes": 380826
+      }
+    ]
+  },
+  {
+    "product_id": "special-sohan-halwa",
+    "title_en": "Special Royal Sohan Halwa",
+    "title_ur": "اسپیشل سوہن حلوہ",
+    "images": [
+      {
+        "filename": "special_sohan_halwa_main.webp",
+        "localPath": "extracted_photos/special_sohan_halwa_main.webp",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/shahisohanhalwa.webp?v=1772667061",
+        "sizeBytes": 54303
+      },
+      {
+        "filename": "special_sohan_halwa_box.png",
+        "localPath": "extracted_photos/special_sohan_halwa_box.png",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/2.png?v=1772667061",
+        "sizeBytes": 16553339
+      },
+      {
+        "filename": "special_sohan_halwa_tray.png",
+        "localPath": "extracted_photos/special_sohan_halwa_tray.png",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/3.png?v=1772667061",
+        "sizeBytes": 16819332
+      }
+    ]
+  },
+  {
+    "product_id": "desi-ghee-panjeeri",
+    "title_en": "Desi Ghee Panjeeri",
+    "title_ur": "دیسی گھی پنجیری",
+    "images": [
+      {
+        "filename": "desi_ghee_panjeeri_main.webp",
+        "localPath": "extracted_photos/desi_ghee_panjeeri_main.webp",
+        "sourceUrl": "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/panjeeri.webp?v=1734076402",
+        "sizeBytes": 75935
+      }
+    ]
+  }
+]

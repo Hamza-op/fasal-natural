@@ -1,0 +1,1131 @@
+{
+  "total": 51,
+  "types": [
+    "",
+    "Naan Khatai",
+    "Halwa Box",
+    "Nimko",
+    "Snack Box",
+    "Barfi Box"
+  ],
+  "tags": [
+    "mix-halwa",
+    "popular",
+    "sweets",
+    "patisa",
+    "tag__sale_Popular",
+    "barfi",
+    "tag__sale_House Favorite",
+    "tag__sale_Kid's favorite",
+    "halwajaat",
+    "tag__sale_Premium",
+    "honey",
+    "tag__sale_Best Seller",
+    "sohan-halwa"
+  ],
+  "sampleProducts": [
+    {
+      "id": 8558912733218,
+      "title": "2 Kg Mix Halwa Box 8 in 1",
+      "handle": "2-kg-mix-halwa-box-8-in-1",
+      "product_type": "",
+      "price": "4250.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "2 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/1_0eda0118-8860-4553-9f3e-716a90a1a00d.jpg?v=1784888750",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/2_776f6c84-c7b1-4bd2-9293-4a7d7cfae339.jpg?v=1784888750"
+      ],
+      "body_summary": "Akhroti Sohan HalwaDry Fruit Sohan HalwaInjeer HalwaBadam PaakPista HalwaKaju HalwaKhajoor HalwaDry "
+    },
+    {
+      "id": 8521557606434,
+      "title": "2 in 1 Combo Box",
+      "handle": "2in1-combobox",
+      "product_type": "",
+      "price": "1999.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "1KG"
+          ]
+        },
+        {
+          "name": "Flavors",
+          "position": 2,
+          "values": [
+            "Akhroti Sohan Halwa & Dry Fruit Burfi"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/57.jpg?v=1772660177",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/58.jpg?v=1772660177"
+      ],
+      "body_summary": ""
+    },
+    {
+      "id": 8372819918882,
+      "title": "Simple Naan Khatai",
+      "handle": "simple-naan-khatai",
+      "product_type": "Naan Khatai",
+      "price": "1060.00",
+      "options": [
+        {
+          "name": "Pieces",
+          "position": 1,
+          "values": [
+            "28 pieces"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/naankhataiII1.png?v=1776129845",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/naankhataiIII2.png?v=1776129845"
+      ],
+      "body_summary": "\n\n\n\n\n\n\n\n\n\n\nSimple Naan Khatai by Rewari Sweet Mart is a classic, buttery cookie with a light, crisp "
+    },
+    {
+      "id": 8372819623970,
+      "title": "Besan Naan Khatai",
+      "handle": "besan-naan-khatai",
+      "product_type": "Naan Khatai",
+      "price": "1060.00",
+      "options": [
+        {
+          "name": "Pieces",
+          "position": 1,
+          "values": [
+            "28 pieces"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/naankhataiIII3.png?v=1776129927",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/naankhataiIII2_29f5bd48-7cfa-4893-8d0f-cfe9b17eac98.png?v=1776129927"
+      ],
+      "body_summary": "\n\n\n\n\n\n\nBesan Naan Khatai by Rewari Sweet Mart is a classic gram flour cookie with a rich, nutty flav"
+    },
+    {
+      "id": 8336069623842,
+      "title": "Royal 4-in-1 Halwa Box",
+      "handle": "royal-4-in-1-halwa-box",
+      "product_type": "Halwa Box",
+      "price": "2200.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Image1.png?v=1772661584",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Image4.png?v=1772661584"
+      ],
+      "body_summary": "Akhroti Halwa Pista Halwa Badam Paak Kaju Halwa"
+    },
+    {
+      "id": 8274837110818,
+      "title": "Potato Sticks",
+      "handle": "potato-sticks",
+      "product_type": "Nimko",
+      "price": "320.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "200g"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/100.jpg?v=1772694902",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/101.jpg?v=1772694903"
+      ],
+      "body_summary": "Crunchy and savory Potato Sticks by Rewari Sweet Mart, made from crispy potatoes and lightly seasone"
+    },
+    {
+      "id": 8274828034082,
+      "title": "Bareek Nimko",
+      "handle": "bareek-nimko",
+      "product_type": "Nimko",
+      "price": "320.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "200g"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/98.jpg?v=1772695090",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/97.jpg?v=1772695090"
+      ],
+      "body_summary": "Savor the crunchy delight of Bareek Nimko by Rewari Sweet Mart, crafted with fine sev, lentils, and "
+    },
+    {
+      "id": 8274822955042,
+      "title": "Daal Moth",
+      "handle": "daal-moth",
+      "product_type": "Nimko",
+      "price": "320.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "200g"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/94.jpg?v=1772694731",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/95.jpg?v=1772694731"
+      ],
+      "body_summary": "Enjoy the bold and crunchy taste of Daal Moth by Rewari Sweet Mart, made with crispy lentils, sev, a"
+    },
+    {
+      "id": 8274812829730,
+      "title": "Namkeen Daal",
+      "handle": "namkeen-daal",
+      "product_type": "Nimko",
+      "price": "320.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "200g"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/86.jpg?v=1772694449",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/87.jpg?v=1772694449"
+      ],
+      "body_summary": "Crispy and flavorful Namkeen Daal by Rewari Sweet Mart, made from roasted lentils and seasoned with "
+    },
+    {
+      "id": 8272986177570,
+      "title": "Snack Box 2 in 1",
+      "handle": "snack-box-2-in-1",
+      "product_type": "Snack Box",
+      "price": "1320.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "400g"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Untitleddesign_52.jpg?v=1772644994",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Untitleddesign_51.jpg?v=1772644993"
+      ],
+      "body_summary": "Dry Fruit Gajak + Tikki Pack"
+    },
+    {
+      "id": 8272909959202,
+      "title": "2 in 1 Delight Box",
+      "handle": "2-in-1-delight-box",
+      "product_type": "Barfi Box",
+      "price": "1999.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Untitleddesign_26.jpg?v=1772635710",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Untitleddesign_28.jpg?v=1772635710"
+      ],
+      "body_summary": "Dry Fruit Barfi and Badam Paak"
+    },
+    {
+      "id": 8272902193186,
+      "title": "Sohan Halwa Duo Box",
+      "handle": "halwa-box-2-in-1",
+      "product_type": "Halwa Box",
+      "price": "1890.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Untitleddesign_23.jpg?v=1772634572",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Untitleddesign_25.jpg?v=1772634572"
+      ],
+      "body_summary": "Simple Sohan Halwa and Akhroti Sohan halwa"
+    },
+    {
+      "id": 8272899014690,
+      "title": "Mesu Delight Barfi",
+      "handle": "mesu-delight-barfi",
+      "product_type": "Barfi Box",
+      "price": "1999.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Untitleddesign_20_ce084cad-b7d1-4df3-944e-dd76cdacb57a.jpg?v=1772633486",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Untitleddesign_22_6af18d0a-b433-42b3-8b4b-042c8916ae53.jpg?v=1772633486"
+      ],
+      "body_summary": "Dry Fruit Barfi &amp; Doodh Mesu"
+    },
+    {
+      "id": 8192734265378,
+      "title": "4 in 1 Delight Halwa Box",
+      "handle": "4-in-1-delight-halwa-box",
+      "product_type": "Halwa Box",
+      "price": "2200.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/62.jpg?v=1772661584",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/63.jpg?v=1772661584"
+      ],
+      "body_summary": "Injeer Halwa Badam Paak Pista Halwa Kaju Halwa"
+    },
+    {
+      "id": 7990136242210,
+      "title": "Double Combo Box",
+      "handle": "double-combo-box",
+      "product_type": "",
+      "price": "1910.00",
+      "options": [
+        {
+          "name": "Net Weight",
+          "position": 1,
+          "values": [
+            "800Gram"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Untitled-22.jpg?v=1752492351"
+      ],
+      "body_summary": "Akhroti sohan halwa\nSimple sohan halwa\nDry fruit sohan halwa\nDry fruit burfi"
+    },
+    {
+      "id": 7987685425186,
+      "title": "4 In 1 Mix Halwa Box",
+      "handle": "4-in-1-mix-halwa-box",
+      "product_type": "",
+      "price": "2050.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "1-kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/60.jpg?v=1772661053",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/4_in_1.png?v=1772661053"
+      ],
+      "body_summary": "Akhroti Sohan Halwa Badam Paak HalwaDry Fruit Sohan Halwa Dry Fruit Barfi"
+    },
+    {
+      "id": 7986351570978,
+      "title": "Its a Boy 4 in 1 Gift Box (Min 2)",
+      "handle": "its-a-boy-its-a-girl-4-in-1-gift-box-copy",
+      "product_type": "",
+      "price": "1960.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "400*2 gram net weight"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Post_7.jpg?v=1750170895",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/WhatsAppImage2025-04-24at9.39.36AM.jpg?v=1750170895"
+      ],
+      "body_summary": "Celebrate the arrival of your little one with Rewari’s specially It's a Boy 4 in 1gift box. Featurin"
+    },
+    {
+      "id": 7983201681442,
+      "title": "Royal Delight Duo ( Min 5 Boxes)",
+      "handle": "royal-delight-duo-min-5-boxes",
+      "product_type": "",
+      "price": "2000.00",
+      "options": [
+        {
+          "name": "Weight Per Box",
+          "position": 1,
+          "values": [
+            "200 Gram"
+          ]
+        },
+        {
+          "name": "Flavour",
+          "position": 2,
+          "values": [
+            "Akhroti Sohan Halwa / Badam Pak"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/DSC03049.jpg?v=1749645361",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/DSC03045.jpg?v=1749645361"
+      ],
+      "body_summary": "2 in 1 Small Gift Box – Badam Pak &amp; Walnut Sohan HalwaA delightful duo of traditional sweets in "
+    },
+    {
+      "id": 7961920176162,
+      "title": "2 in 1 Combo Box",
+      "handle": "2-in-1-combo-box",
+      "product_type": "",
+      "price": "1999.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "1KG"
+          ]
+        },
+        {
+          "name": "Flavors",
+          "position": 2,
+          "values": [
+            "Akhroti Sohan Halwa & Dry Fruit Burfi"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/57.jpg?v=1772660177",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/58.jpg?v=1772660177"
+      ],
+      "body_summary": ""
+    },
+    {
+      "id": 7929666568226,
+      "title": "Pheeki jaleebi  (Dry)",
+      "handle": "jalebi",
+      "product_type": "",
+      "price": "875.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 KG",
+            "1 KG"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/WhatsAppImage2025-03-15at8.19.03PM.jpg?v=1742052023",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/WhatsAppImage2025-03-15at8.19.04PM.jpg?v=1742052023"
+      ],
+      "body_summary": "Enjoy the subtle sweetness and crispy texture of Pheeki Jalebi dry, unsweetened version of the class"
+    },
+    {
+      "id": 7896559026210,
+      "title": "8 In 1 Mix Halwa Box",
+      "handle": "8-in-1-mix-halwa-box",
+      "product_type": "",
+      "price": "1999.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "800 gram net weight"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/8_in_1_e3bee422-5f8a-4842-ba16-95d0ec6c2f3e.png?v=1771597389",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/8_in_1.png?v=1771597389"
+      ],
+      "body_summary": "Akhroti Sohan Halwa Khajour HalwaPista Halwa Badam Paak HalwaKaju Halwa Dry Fruit Sohan Halwa Injeer"
+    },
+    {
+      "id": 7781130829858,
+      "title": "Mix Nimco",
+      "handle": "mix-nimco",
+      "product_type": "",
+      "price": "910.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/88.jpg?v=1772695208",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/89.jpg?v=1772695208"
+      ],
+      "body_summary": "Our Mix Nimko is made using time-tested recipes, offering a delightful taste of Pakistan's culinary "
+    },
+    {
+      "id": 7781130666018,
+      "title": "Gujiya",
+      "handle": "gujiya",
+      "product_type": "",
+      "price": "910.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Gujiya.webp?v=1734076376"
+      ],
+      "body_summary": "We use generous portions of melt-in-your-mouth khoya and Desi Ghee to create a luxuriously rich and "
+    },
+    {
+      "id": 7781118410786,
+      "title": "Simple Patisa",
+      "handle": "simple-patisa",
+      "product_type": "",
+      "price": "910.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/simplepatisa.webp?v=1734076390"
+      ],
+      "body_summary": "Indulge in the timeless taste of Rewari Sweet Mart's Simple Patisa Made with pure desi ghee for an u"
+    },
+    {
+      "id": 7781117067298,
+      "title": "Milky Patisa",
+      "handle": "milky-patisa",
+      "product_type": "",
+      "price": "965.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/milkypatisa.webp?v=1734076390"
+      ],
+      "body_summary": "Indulge in the irresistible taste of Rewari Sweet Mart's Milky Patisa This decadent treat is crafted"
+    },
+    {
+      "id": 7781116674082,
+      "title": "Daal Patisa",
+      "handle": "daal-patisa",
+      "product_type": "",
+      "price": "965.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/daalpatisa.webp?v=1734076391"
+      ],
+      "body_summary": "Indulge in our delectable Dal Patisa, a traditional sweet treat crafted with the finest ingredients."
+    },
+    {
+      "id": 7781114544162,
+      "title": "Simple Barfi",
+      "handle": "simple-barfi",
+      "product_type": "",
+      "price": "910.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/simplebarfi.webp?v=1734076394"
+      ],
+      "body_summary": "We use only pure desi ghee, known for its rich aroma and flavor, to elevate the barfi's texture and "
+    },
+    {
+      "id": 7781114347554,
+      "title": "Shahi Pera",
+      "handle": "shahi-pera",
+      "product_type": "",
+      "price": "910.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/ShahiPera.webp?v=1734076394"
+      ],
+      "body_summary": "The base of our Shahi Pera is made with rich, melt-in-your-mouth khoya, providing a creamy and luxur"
+    },
+    {
+      "id": 7781114118178,
+      "title": "Roll Barfi",
+      "handle": "roll-barfi",
+      "product_type": "",
+      "price": "910.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Rollbarfi.webp?v=1734076395"
+      ],
+      "body_summary": "Indulge in the delightful decadence of our Roll Barfi, a traditional sweet made with the finest ingr"
+    },
+    {
+      "id": 7781114019874,
+      "title": "Paan Pera",
+      "handle": "paan-pera",
+      "product_type": "",
+      "price": "910.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Paanpera.webp?v=1734076396"
+      ],
+      "body_summary": "we use only the finest ingredients to create our delectable sweets. Our Paan Mera Barfi is made with"
+    },
+    {
+      "id": 7781113233442,
+      "title": "Kaju Katli",
+      "handle": "kaju-katli",
+      "product_type": "",
+      "price": "1690.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/79.jpg?v=1772675642",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/80.jpg?v=1772675642"
+      ],
+      "body_summary": "The rich taste of tradition with Rewari Sweet Mart's Kaju Katli, crafted with the finest ingredients"
+    },
+    {
+      "id": 7780972265506,
+      "title": "Dry Fruit Barfi",
+      "handle": "dry-fruit-barfi",
+      "product_type": "",
+      "price": "1070.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Dry_Fruit_Barfi_3.png?v=1771650249",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Dry_Fruit_Barfi_2.png?v=1771650015"
+      ],
+      "body_summary": "Our Royal Dry Fruit Barfi is made with rich, melt-in-your-mouth khoya simmered in pure desi ghee for"
+    },
+    {
+      "id": 7780970889250,
+      "title": "Chocolate Barfi",
+      "handle": "chocolate-barfi",
+      "product_type": "",
+      "price": "910.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/chocolatebarfi.webp?v=1734076398"
+      ],
+      "body_summary": "Indulge in a delightful fusion of tradition and decadence with Rewari Sweet Mart's Desi Ghee Chocola"
+    },
+    {
+      "id": 7780955422754,
+      "title": "Besan Barfi",
+      "handle": "besan-barfi",
+      "product_type": "",
+      "price": "910.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/besanbarfi.webp?v=1734076399"
+      ],
+      "body_summary": "Indulge in the rich, nutty sweetness of Rewari Sweet Mart's Besan Barfi, a traditional Pakistani swe"
+    },
+    {
+      "id": 7780947263522,
+      "title": "Pista Halwa",
+      "handle": "pista-halwa",
+      "product_type": "",
+      "price": "1380.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/74.jpg?v=1772672833",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/73.jpg?v=1772672833"
+      ],
+      "body_summary": "Crafted with pure desi ghee and real khoya, our Pista Halwa boasts a rich, creamy texture and a deli"
+    },
+    {
+      "id": 7780947165218,
+      "title": "Panjeeri",
+      "handle": "panjeeri",
+      "product_type": "",
+      "price": "1070.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/panjeeri.webp?v=1734076402"
+      ],
+      "body_summary": "Experience the rich tradition and wholesome goodness of our Panjeeri, made with the finest ingredien"
+    },
+    {
+      "id": 7780947132450,
+      "title": "Makhan Toffee",
+      "handle": "makhan-toffee",
+      "product_type": "",
+      "price": "1015.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/76.jpg?v=1772673893",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/77.jpg?v=1772673893"
+      ],
+      "body_summary": "Savor the rich taste of our Makhan Toffee, made with authentic ingredients like khoya, desi ghee, an"
+    },
+    {
+      "id": 7780941529122,
+      "title": "Khajoor Halwa",
+      "handle": "khajoor-halwa",
+      "product_type": "",
+      "price": "1070.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/KhajoorHalwa.webp?v=1734076403"
+      ],
+      "body_summary": "Crafted with Desi Ghee for richness and khoya for creaminess, our Khajour Halwa is a luxurious treat"
+    },
+    {
+      "id": 7780941135906,
+      "title": "Kaju Halwa",
+      "handle": "kaju-halwa",
+      "product_type": "",
+      "price": "1170.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/82.jpg?v=1772679918",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/84.jpg?v=1772679918"
+      ],
+      "body_summary": "Luxuriate in our Kaju Halwa, a rich Pakistani dessert made of cashews with desi ghee, khoya, and cas"
+    },
+    {
+      "id": 7780941070370,
+      "title": "Injeer Halwa",
+      "handle": "injeer-halwa",
+      "product_type": "",
+      "price": "1070.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/Injeerhalwa.webp?v=1734076405"
+      ],
+      "body_summary": "Indulge in Injeer Halwa, a rich Pakistani dessert made with Desi Ghee, sun-ripened figs, milk, and a"
+    },
+    {
+      "id": 7780940906530,
+      "title": "Honey Dry Fruit Halwa",
+      "handle": "honey-dry-fruit-halwa",
+      "product_type": "",
+      "price": "1900.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/2.jpg?v=1769936605",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/1.jpg?v=1769936605"
+      ],
+      "body_summary": "A delightful treat made with the finest ingredients, our Honey Dry Fruit Halwa is a perfect blend of"
+    },
+    {
+      "id": 7780938088482,
+      "title": "Dry Fruit Gajak",
+      "handle": "dry-fruit-gajak",
+      "product_type": "",
+      "price": "1900.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 Kg",
+            "1 Kg"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/dryfruitegajak.webp?v=1734076406"
+      ],
+      "body_summary": "Shatteringly crisp Gajak gives way to a luxuriously rich center of Desi Ghee, studded with Kaju, Pis"
+    },
+    {
+      "id": 7780934582306,
+      "title": "Dodh Maisu",
+      "handle": "dodh-maisu",
+      "product_type": "",
+      "price": "1070.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 KG",
+            "1 KG"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/doodhmaisu.webp?v=1734076407"
+      ],
+      "body_summary": "Savor the rich taste of our Dodh Maisu made with milk and Desi Ghee, topped with Pista and badam for"
+    },
+    {
+      "id": 7780933566498,
+      "title": "Badam Paak",
+      "handle": "badam-paak",
+      "product_type": "",
+      "price": "1070.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 KG",
+            "1 KG"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/1721441339-badam_20pak.webp?v=1771648555"
+      ],
+      "body_summary": "Savor the rich, nutty flavor of our Badam Paak, made with real almonds and the aromatic goodness of "
+    },
+    {
+      "id": 7780855349282,
+      "title": "Arbi Halwa",
+      "handle": "arbi-halwa",
+      "product_type": "",
+      "price": "1480.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 KG",
+            "1 KG"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/arabihalwa.webp?v=1734076408"
+      ],
+      "body_summary": "luxurious treat with a melt-in-your-mouth black date sweetness, and rich desi ghee. Topped with cash"
+    },
+    {
+      "id": 7780855152674,
+      "title": "2Kg Mix Halwa Box 6 in 1",
+      "handle": "2kg-mix-halwa-box-6-in-1",
+      "product_type": "",
+      "price": "4200.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "2 KG"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/66.jpg?v=1772662555",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/65.jpg?v=1772662555"
+      ],
+      "body_summary": "Akhroti Sohan Halwa Khajour Halwa Pista HalwaDry Fruit Sohan Halwa Badam Paak Kaju Halwa"
+    },
+    {
+      "id": 7780854530082,
+      "title": "Tikki Pack Sohan Halwa",
+      "handle": "simple-sohan-halwa-copy",
+      "product_type": "",
+      "price": "1015.00",
+      "options": [
+        {
+          "name": "Pieces",
+          "position": 1,
+          "values": [
+            "6 pieces",
+            "12 pieces"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/11.jpg?v=1771649356",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/10.jpg?v=1771649356"
+      ],
+      "body_summary": "Embark on a delightful discovery of Sohan Halwa in a convenient and irresistible Tikki Pack! Each bi"
+    },
+    {
+      "id": 7780806262818,
+      "title": "Simple Sohan Halwa",
+      "handle": "simple-sohan-halwa",
+      "product_type": "",
+      "price": "965.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 KG",
+            "1 KG"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/69.jpg?v=1772665145",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/68.jpg?v=1772665145"
+      ],
+      "body_summary": "Crafted with tradition, our Sohan Halwa starts with fresh milk, enriched with desi ghee for a luxuri"
+    },
+    {
+      "id": 7780801151010,
+      "title": "Shahi Sohan Halwa",
+      "handle": "shahi-sohan-halwa",
+      "product_type": "",
+      "price": "1070.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 KG",
+            "1 KG"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/2.png?v=1772667061",
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/shahisohanhalwa.webp?v=1772667061"
+      ],
+      "body_summary": "Made with 100% pure desi ghee, our Shahi Sohan Halwa delivers a rich, buttery flavor that melts in y"
+    },
+    {
+      "id": 7780796170274,
+      "title": "Dry Fruit Sohan Halwa",
+      "handle": "dry-fruit-sohan-halwa-1",
+      "product_type": "",
+      "price": "1170.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 KG",
+            "1 KG"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/DSC03010_1.jpg?v=1749643282"
+      ],
+      "body_summary": "Our Dry Fruit Sohan Halwa features a velvety desi ghee or milk base, and delicately cardamom, brimmi"
+    },
+    {
+      "id": 7780183736354,
+      "title": "Akhroti Sohan Halwa",
+      "handle": "akhroti-sohan-halwa",
+      "product_type": "",
+      "price": "1070.00",
+      "options": [
+        {
+          "name": "Gross Weight",
+          "position": 1,
+          "values": [
+            "0.5 KG",
+            "1 KG",
+            "2 KG"
+          ]
+        }
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0748/4447/1330/files/1721441254-Akhroti20Halwa.webp?v=1734076412"
+      ],
+      "body_summary": "Indulge in luxury with our Akhroti Sohan Halwa. Made with milk, desi ghee, cardamom, and walnuts, it"
+    }
+  ]
+}

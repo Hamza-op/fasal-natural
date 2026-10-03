@@ -1,0 +1,34 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor & IDE Files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node & Package Managers
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Raw Scrape Dumps & Large Unprocessed Assets
+full_homepage.html
+extracted_photos/
+
+# Temporary & Log Files
+*.log
+*.tmp
+.env
+.env.local

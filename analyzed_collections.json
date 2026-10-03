@@ -1,0 +1,62 @@
+[
+  {
+    "id": 472429199394,
+    "title": "Barfi",
+    "handle": "barfi",
+    "products_count": 11
+  },
+  {
+    "id": 472429166626,
+    "title": "Halwajaat",
+    "handle": "halwajaat",
+    "products_count": 11
+  },
+  {
+    "id": 485353422882,
+    "title": "Mandatory Fees",
+    "handle": "mandatory-fees",
+    "products_count": 1
+  },
+  {
+    "id": 472429101090,
+    "title": "Mix Halwa",
+    "handle": "mix-halwa",
+    "products_count": 30
+  },
+  {
+    "id": 501093007394,
+    "title": "Naan Khatai",
+    "handle": "naan-khatai",
+    "products_count": 3
+  },
+  {
+    "id": 499187417122,
+    "title": "Nimko",
+    "handle": "nimko",
+    "products_count": 6
+  },
+  {
+    "id": 472429232162,
+    "title": "Patisa",
+    "handle": "patisa",
+    "products_count": 7
+  },
+  {
+    "id": 472552112162,
+    "title": "Popular",
+    "handle": "popular",
+    "products_count": 17
+  },
+  {
+    "id": 472429133858,
+    "title": "Sohan Halwa",
+    "handle": "sohan-halwa",
+    "products_count": 5
+  },
+  {
+    "id": 472429264930,
+    "title": "Sweets",
+    "handle": "sweets",
+    "products_count": 21
+  }
+]

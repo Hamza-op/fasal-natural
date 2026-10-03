@@ -1,0 +1,266 @@
+{
+  "store": {
+    "name": "Fasal Natural",
+    "name_ur": "فصل نیچرل",
+    "tagline": "100% Pure & Traditional Delights | Farm Fresh Ingredients",
+    "tagline_ur": "خالص اور روایتی پیداوار | 100% خالص دیسی گھی",
+    "whatsapp_number": "+923041790269",
+    "whatsapp_link": "https://wa.me/923041790269",
+    "dispatch_city": "Multan, Pakistan",
+    "delivery_charges": 250,
+    "free_delivery_threshold": null,
+    "currency": "PKR",
+    "currency_symbol": "Rs."
+  },
+  "categories": [
+    {
+      "id": "sohan-halwa",
+      "name": "Signature Sohan Halwa",
+      "name_ur": "خاص سوہن حلوہ"
+    },
+    {
+      "id": "pure-desi-ghee",
+      "name": "Pure Desi Ghee",
+      "name_ur": "خالص دیسی گھی"
+    },
+    {
+      "id": "panjeeri",
+      "name": "Traditional Panjeeri",
+      "name_ur": "روایتی پنجیری"
+    }
+  ],
+  "products": [
+    {
+      "id": "simple-sohan-halwa",
+      "title": "Simple Sohan Halwa",
+      "title_ur": "سادہ سوہن حلوہ",
+      "category": "sohan-halwa",
+      "category_name": "Signature Sohan Halwa",
+      "unit_size": "1 Kg",
+      "price": 1700,
+      "compare_at_price": 2200,
+      "discount_amount": 500,
+      "discount_badge": "Save Rs 500",
+      "in_stock": true,
+      "featured": false,
+      "badges": ["100% Pure Desi Ghee", "Save Rs 500", "Traditional Recipe"],
+      "description": "Traditional Multani Sohan Halwa prepared with 100% pure desi ghee, fresh milk, and sprouted wheat (samnak). Pure, rich taste without excessive sugar.",
+      "description_ur": "100% خالص دیسی گھی، تازہ دودھ اور سمنک سے تیار کردہ روایتی ملتانی سوہن حلوہ۔",
+      "primary_image": "extracted_photos/simple_sohan_halwa_main.webp",
+      "images": [
+        "extracted_photos/simple_sohan_halwa_main.webp",
+        "extracted_photos/simple_sohan_halwa_box.jpg",
+        "extracted_photos/simple_sohan_halwa_detail.jpg"
+      ]
+    },
+    {
+      "id": "badami-sohan-halwa",
+      "title": "Badami Sohan Halwa",
+      "title_ur": "بادامی سوہن حلوہ",
+      "category": "sohan-halwa",
+      "category_name": "Signature Sohan Halwa",
+      "unit_size": "1 Kg",
+      "price": 1900,
+      "compare_at_price": 2400,
+      "discount_amount": 500,
+      "discount_badge": "Save Rs 500",
+      "in_stock": true,
+      "featured": true,
+      "badges": ["100% Pure Desi Ghee", "Save Rs 500", "Roasted Almonds"],
+      "description": "Rich artisanal Sohan Halwa slow-cooked in pure desi ghee and generously loaded with crunchy roasted almonds.",
+      "description_ur": "خالص دیسی گھی میں بھنے ہوئے لذیذ اور خستہ باداموں کے ساتھ تیار کردہ لاجواب سوہن حلوہ۔",
+      "primary_image": "extracted_photos/badami_sohan_halwa_main.webp",
+      "images": [
+        "extracted_photos/badami_sohan_halwa_main.webp",
+        "extracted_photos/badami_sohan_halwa_box.jpg"
+      ]
+    },
+    {
+      "id": "akhroti-sohan-halwa",
+      "title": "Akhroti Sohan Halwa",
+      "title_ur": "اخروٹی سوہن حلوہ",
+      "category": "sohan-halwa",
+      "category_name": "Signature Sohan Halwa",
+      "unit_size": "1 Kg",
+      "price": 2000,
+      "compare_at_price": 2500,
+      "discount_amount": 500,
+      "discount_badge": "Save Rs 500",
+      "in_stock": true,
+      "featured": true,
+      "badges": ["100% Pure Desi Ghee", "Save Rs 500", "Best Seller"],
+      "description": "Our most popular sweet; packed with hand-selected crunchy northern walnut kernels simmered in golden pure desi ghee.",
+      "description_ur": "ہمارا سب سے مقبول سوہن حلوہ، خالص دیسی گھی اور بہترین اخروٹ کی گریوں کے ساتھ تیار کردہ۔",
+      "primary_image": "extracted_photos/akhroti_sohan_halwa_main.webp",
+      "images": [
+        "extracted_photos/akhroti_sohan_halwa_main.webp",
+        "extracted_photos/akhroti_sohan_halwa_box.jpg"
+      ]
+    },
+    {
+      "id": "double-akhroti-sohan-halwa",
+      "title": "Double Akhroti Sohan Halwa",
+      "title_ur": "ڈبل اخروٹی سوہن حلوہ",
+      "category": "sohan-halwa",
+      "category_name": "Signature Sohan Halwa",
+      "unit_size": "1 Kg",
+      "price": 2200,
+      "compare_at_price": 2700,
+      "discount_amount": 500,
+      "discount_badge": "Save Rs 500",
+      "in_stock": true,
+      "featured": false,
+      "badges": ["100% Pure Desi Ghee", "Save Rs 500", "Extra Crunchy"],
+      "description": "Double portion of handpicked walnut pieces for walnut lovers craving extra crunch and pure desi ghee richness in every bite.",
+      "description_ur": "اخروٹ کے شوقین افراد کے لیے ڈبل اخروٹ کے ساتھ بھرپور ذائقے دار روایتی سوہن حلوہ۔",
+      "primary_image": "extracted_photos/double_akhroti_main.jpg",
+      "images": [
+        "extracted_photos/double_akhroti_main.jpg",
+        "extracted_photos/double_akhroti_detail.jpg"
+      ]
+    },
+    {
+      "id": "mix-dry-fruit-sohan-halwa",
+      "title": "Mix Dry Fruit Sohan Halwa",
+      "title_ur": "مکس ڈرائی فروٹ سوہن حلوہ",
+      "category": "sohan-halwa",
+      "category_name": "Signature Sohan Halwa",
+      "unit_size": "1 Kg",
+      "price": 2300,
+      "compare_at_price": 2800,
+      "discount_amount": 500,
+      "discount_badge": "Save Rs 500",
+      "in_stock": true,
+      "featured": true,
+      "badges": ["100% Pure Desi Ghee", "Save Rs 500", "Royal Assortment"],
+      "description": "An exquisite blend of almonds, walnuts, pistachios, and cashews roasted in pure desi ghee for the ultimate festive royal treat.",
+      "description_ur": "بادام، اخروٹ، پستہ اور کاجو کے شاہی مرکب اور خالص دیسی گھی سے تیار کردہ مکس سوہن حلوہ۔",
+      "primary_image": "extracted_photos/mix_dry_fruit_main.jpg",
+      "images": [
+        "extracted_photos/mix_dry_fruit_main.jpg",
+        "extracted_photos/mix_dry_fruit_box.jpg",
+        "extracted_photos/mix_dry_fruit_combo.png"
+      ]
+    },
+    {
+      "id": "pista-sohan-halwa",
+      "title": "Pista Sohan Halwa",
+      "title_ur": "پستہ سوہن حلوہ",
+      "category": "sohan-halwa",
+      "category_name": "Signature Sohan Halwa",
+      "unit_size": "1 Kg",
+      "price": 2500,
+      "compare_at_price": 3000,
+      "discount_amount": 500,
+      "discount_badge": "Save Rs 500",
+      "in_stock": true,
+      "featured": false,
+      "badges": ["100% Pure Desi Ghee", "Save Rs 500", "Premium Pistachio"],
+      "description": "Luxurious Sohan Halwa lavishly decorated and infused with premium roasted green pistachios and fragrant green cardamom.",
+      "description_ur": "سبز پستے اور خوشبودار الائچی کے ساتھ خالص دیسی گھی میں پکا ہوا شاہی پستہ حلوہ۔",
+      "primary_image": "extracted_photos/pista_sohan_halwa_main.webp",
+      "images": [
+        "extracted_photos/pista_sohan_halwa_main.webp",
+        "extracted_photos/pista_sohan_halwa_box.jpg",
+        "extracted_photos/pista_sohan_halwa_pack.png"
+      ]
+    },
+    {
+      "id": "special-royal-sohan-halwa",
+      "title": "Special Royal Sohan Halwa",
+      "title_ur": "اسپیشل سوہن حلوہ",
+      "category": "sohan-halwa",
+      "category_name": "Signature Sohan Halwa",
+      "unit_size": "1 Kg",
+      "price": 2700,
+      "compare_at_price": 3200,
+      "discount_amount": 500,
+      "discount_badge": "Save Rs 500",
+      "in_stock": true,
+      "featured": true,
+      "badges": ["100% Pure Desi Ghee", "Save Rs 500", "Master Craft"],
+      "description": "Fasal Natural's flagship luxury preparation with maximum concentration of grass-fed pure desi ghee, khoya, and assorted nuts.",
+      "description_ur": "ہماری خاص شاہی پیشکش، خالص ترین دیسی گھی اور تمام خشک میوہ جات کے ملاپ سے تیار کردہ شاہکار۔",
+      "primary_image": "extracted_photos/special_sohan_halwa_main.webp",
+      "images": [
+        "extracted_photos/special_sohan_halwa_main.webp",
+        "extracted_photos/special_sohan_halwa_box.png",
+        "extracted_photos/special_sohan_halwa_tray.png"
+      ]
+    },
+    {
+      "id": "desi-ghee-panjeeri",
+      "title": "Desi Ghee Panjeeri",
+      "title_ur": "دیسی گھی پنجیری",
+      "category": "panjeeri",
+      "category_name": "Traditional Panjeeri",
+      "unit_size": "1 Kg",
+      "price": 2500,
+      "compare_at_price": 3000,
+      "discount_amount": 500,
+      "discount_badge": "Save Rs 500",
+      "in_stock": true,
+      "featured": true,
+      "badges": ["100% Pure Desi Ghee", "Save Rs 500", "Nutritional Superfood"],
+      "description": "Traditional Punjabi & Multani winter superfood prepared with pure desi ghee, roasted almonds, walnuts, gond (edible gum), kamarkas, char maghaz, and makhane.",
+      "description_ur": "100% خالص دیسی گھی، گوند، کمرکس، بادام، اخروٹ اور چار مغز سے تیار کردہ روایتی غذائی پنجیری۔",
+      "primary_image": "extracted_photos/desi_ghee_panjeeri_main.webp",
+      "images": [
+        "extracted_photos/desi_ghee_panjeeri_main.webp"
+      ]
+    },
+    {
+      "id": "pure-desi-ghee",
+      "title": "Pure Desi Ghee",
+      "title_ur": "خالص دیسی گھی",
+      "category": "pure-desi-ghee",
+      "category_name": "Pure Desi Ghee",
+      "is_multi_variant": true,
+      "default_variant": "500g",
+      "price": 2600,
+      "compare_at_price": 3100,
+      "discount_amount": 500,
+      "discount_badge": "Save Rs 500",
+      "in_stock": true,
+      "featured": true,
+      "badges": ["100% Pure & Organic", "Save Rs 500", "Bilona Method"],
+      "description": "100% unadulterated, farm-fresh grass-fed desi butter ghee from Multan. Naturally golden, danedar (grainy) texture with an authentic aroma. Free of chemicals, preservatives, and vegetable oils.",
+      "description_ur": "ملتان کے فارموں کا 100% خالص، دانہ دار اور خوشبودار دیسی گھی۔ بغیر کسی ملاوٹ کے۔",
+      "primary_image": null,
+      "images": [],
+      "variants": [
+        {
+          "id": "desi-ghee-250g",
+          "size": "250 Grams",
+          "size_short": "250g",
+          "packaging": "Glass Jar",
+          "price": 1500,
+          "compare_at_price": 2000,
+          "discount_amount": 500,
+          "discount_badge": "Save Rs 500"
+        },
+        {
+          "id": "desi-ghee-500g",
+          "size": "500 Grams",
+          "size_short": "500g",
+          "packaging": "Glass Jar",
+          "price": 2600,
+          "compare_at_price": 3100,
+          "discount_amount": 500,
+          "discount_badge": "Save Rs 500",
+          "is_default": true
+        },
+        {
+          "id": "desi-ghee-1kg",
+          "size": "1 Kg",
+          "size_short": "1 Kg",
+          "packaging": "Sealed Tin",
+          "price": 4500,
+          "compare_at_price": 5000,
+          "discount_amount": 500,
+          "discount_badge": "Save Rs 500"
+        }
+      ]
+    }
+  ]
+}
