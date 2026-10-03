@@ -124,7 +124,7 @@ h1,h2,h3{font-family:'Playfair Display',serif;line-height:1.2}
 .hero__chips{list-style:none;display:flex;gap:.5rem;flex-wrap:wrap;margin-top:1.5rem}
 .hero__chips li{font-size:.78rem;background:var(--surface);border:1px solid var(--line);padding:.3rem .8rem;border-radius:999px;color:var(--heading)}
 .hero__media{position:relative;min-width:0;padding:0 0 0 22px}
-.hero__media img{border-radius:28px;box-shadow:var(--shadow);aspect-ratio:1;object-fit:cover;width:100%;background:var(--img-bg)}
+.hero__media img{height:auto;border-radius:28px;box-shadow:var(--shadow);aspect-ratio:1;object-fit:cover;width:100%;background:var(--img-bg)}
 .hero__stamp{position:absolute;left:0;bottom:28px;width:112px;height:112px;border-radius:50%;background:var(--red);color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;box-shadow:var(--shadow);transform:rotate(-10deg);border:3px dashed rgba(255,255,255,.55)}
 .hero__stamp strong{font-family:'Playfair Display',serif;font-size:1.4rem;line-height:1}
 .hero__stamp span{font-size:.65rem;line-height:1.2;margin-top:.2rem}
@@ -271,7 +271,7 @@ legend{font-size:.82rem;font-weight:500;padding:0 .3rem}
   .wa-float{display:none}
   .hero{padding:1.4rem 0 1.8rem}
   .hero__inner{gap:1.2rem}
-  .hero__media{max-width:min(220px,64vw);margin-inline:auto;width:100%}
+  .hero__media{max-width:min(280px,78vw);margin-inline:auto;width:100%}
   .hero__media img{aspect-ratio:1;border-radius:18px}
   .hero__stamp{width:68px;height:68px;left:-6px;bottom:6px}
   .hero__stamp strong{font-size:.95rem}
